@@ -1,0 +1,1505 @@
+[
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71358/47e8367786fd687711a5b94e209e6f46/product-data--3800-pur-sense-steam-sterilizable-ph-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69080/339835dd12ed9cee9b2494ffd98e116b/manual--3800-pur-sense-ph-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69252/84b11b45d6005e29ab760bccc6c2bf4f/product-data--3800-pur-sense-steam-sterilizable-ph-sensor-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3800/3800VP PUR-Sense\u2122 Autoclavable and Steam Sterilize pH Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69098/edf837c16dac54b875e798c86538b2ab/manual--498cl-ph-independent-free-chlorine-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69268/8967c77a25ad01200fc077149b207c9c/product-data--498cl-01-ph-independent-chlorine-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71362/712b751bf46424894f49a44283d78916/product-data--498cl-01-ph-independent-chlorine-sensor---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 498CL pH-Independent Free Chlorine Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69124/8ec94ec694b9dbdf24340d2ae863f31a/manual--hx338--hx348-ph-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/71132/79121d78126b7f5e58da8570ed6e41d6/manual--hx338-ph-sensor-retractable-mounting-assembly-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69300/08bf3327c398f25b6cf93e8c1654f166/product-data--hx338--hx348--hx438--328a--403-and-gx448-conductivity--dissolved-oxygen-and-ph-sensors-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Hx338 Steam Sterilizable & Autoclavable pH Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69248/13a13e60ed652cd03de31f4d12ff64c3/product-data--328a-steam-sterilizable-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69300/08bf3327c398f25b6cf93e8c1654f166/product-data--hx338--hx348--hx438--328a--403-and-gx448-conductivity--dissolved-oxygen-and-ph-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/68952/463018e8522c8208e93ffe3ea990bf22/manual--328a-steam-sterilizable-ph-sensor-data.pdf"
+        ],
+        "name": "Rosemount\u2122 328A Steam Sterilizable pH Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71040/2fce1911e34193ac35fc4545186d20c1/manual--model-rb-submersioninline-ph-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/71386/eb37157e828465b0c79c823a14975704/product-data--model-rb-submersionin-line-ph-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/105148/05d916ac62667415fead6a9e4ef83572/product-data--model-rb-submersionin-line-ph-sensor-2-data.pdf"
+        ],
+        "name": "Rosemount\u2122 RBI pH/ORP Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69122/c805e7273da5bf4d6a74fb9c165f5b30/manual--hx438--gx448-dissolved-oxygen-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69300/08bf3327c398f25b6cf93e8c1654f166/product-data--hx338--hx348--hx438--328a--403-and-gx448-conductivity--dissolved-oxygen-and-ph-sensors-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Hx438 Steam Sterilizable DO Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69066/8f05be0e84f16fcf9d4ab672bc761de4/manual--3200-phaser-high-purity-ph-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69244/1360d8438230a1d07ee0ba5f1295a696/product-data--3200hp-phaser-high-purity-water-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71356/5adf794df52dfbe5ec6906641cf158e0/product-data--3200hp-phaser-high-purity-water-ph-sensor---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3200HP pHaser\u2122 High Purity Water pH Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70262/7cabf4ed616ee7243ecc6929118c93d6/manual--fcl-free-chlorine-system-with-1056-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/71166/1609b58735ad47008e9a6182ba3aa2d9/manual--fcl-free-chlorine-system-with-56-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69010/054063c0bc246397cf0213f033bb39a9/manual--fcl-free-chlorine-measuring-system-data.pdf",
+            "http://www.emerson.com/resource/blob/69290/37204cb0b5a0aaa90d465bde6dd48074/product-data--fcl-free-chlorine-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 FCL Free Chlorine Measuring System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/68896/20a2feae1092b9763fee29d39c49a5a7/manual--conductance-data-for-commonly-used-chemicals-data.pdf",
+            "http://www.emerson.com/resource/blob/70700/15a2c399007fb66f9d69669a365fd441/manual--140--141--142-conductivity-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/105076/78adf458ded93ce063d826139c22c079/product-data--140--141--142-conductivity-sensors-1-data.pdf"
+        ],
+        "name": "Rosemount\u2122 141 Insertion Conductivity Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69016/587529c7e3d75728129ce9cbe3ef5552/manual--mcl-monochloramine-measurement-with-1056-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69018/7c84b10b51917b679221be688a912541/manual--mcl-monochloramine-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/69296/80b55962d5d26e971d769f94c2823af4/product-data--mcl-monochloramine-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69104/9ae55f2d2593fd14a8b356772d2bb218/manual--499acl-03-monochloramine-sensor-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 MCL Monochloramine Measuring System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/68896/20a2feae1092b9763fee29d39c49a5a7/manual--conductance-data-for-commonly-used-chemicals-data.pdf",
+            "http://www.emerson.com/resource/blob/70700/15a2c399007fb66f9d69669a365fd441/manual--140--141--142-conductivity-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/105076/78adf458ded93ce063d826139c22c079/product-data--140--141--142-conductivity-sensors-1-data.pdf"
+        ],
+        "name": "Rosemount\u2122 140 Retractable Conductivity Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69028/7778b015bab09157d4a76539578f0418/manual--tcl-total-chlorine-analyzer-with-1056-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69304/989fa65d3a0a50cb5c9376ca8406dd16/product-data--tcl-total-chlorine-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/71164/129191b39134f575e965f9131db1cfac/manual--tcl-total-chlorine-analyzer-with-56-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 TCL Total Chlorine Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69278/830d66c79c9fe080b168df07309c6cab/product-data--499atrdo-trace-dissolved-oxygen-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69110/56a4396065c84c15398753b9f81fc104/manual--499atrdo-trace-dissolved-oxygen-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69328/f850bd4166ef523832100128588fa5fa/product-data--499atrdo-trace-dissolved-oxygen-sensor---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 499ATrDO Trace Dissolved Oxygen Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69250/e72bc50aa800a4dc97ec15bc847192d6/product-data--372-hf-resistant-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69078/aca436bcff98b7ff3db4801cbca62f2b/manual--372-ph-sensor-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 372 Hydrofluoric Acid (HF) Resistant pH sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69292/f636e8b779ca81d1a0b2281eaccf9a49/product-data--fcli-ph-independent-chlorine-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69014/75b3667d593e49699b738de1f3797418/manual--fcli-free-chlorine-monitoring-system-data.pdf",
+            "http://www.emerson.com/resource/blob/71170/a7c890d6e264c5ff24e0d365eca55bde/manual--fcli-free-chlorine-system-with-1056-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 FCLi Free Chlorine Measuring System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69254/a1739fbfa7406015d0adc0f8268c5787/product-data--385--triple-junction-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/69256/a04bd3c9b1be12cc86b2e998a6a62352/product-data--385-retractable-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/68958/6d630d1f2ec34c937910bf5801e9b3ef/manual--385--triple-junction-phorp-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf"
+        ],
+        "name": "Rosemount\u2122 385/385+ General Purpose pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71384/32ba00c5d5208e3b3d3c82db9e085d7f/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70720/8f3e569b3f2aee0ab7835cb97c40c042/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/70678/6ab959329f769e8fa8bc251151f2bbd9/manual--3300--3400--3500-perph-x-phorp-sensors-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3300HT and 3300HTVP PERpH-X\u2122 High Performance pH and ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69276/8e71e418b45efa29d7b5388046112aa5/product-data--499aoz-dissolved-ozone-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69108/b21f8a88fe7305536643a88a58b20f1e/manual--499aoz-dissolved-ozone-sensor-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 499AOZ Amperometric Ozone Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70714/1491df23459e2c551830736f26889cbc/manual--39003900vp-general-purpose-phorp-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/71360/2bdb29f1bb29568b5dd9b52b3a947465/product-data--model-3900-and-3900vp-general-purpose-ph-sensors---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3900 General Purpose pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69100/f58e02325e311a4c0fc25c516ee9a7b4/manual--499acl-01-free-chlorine-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69324/3b5f6b1a3a460a5c607599f05d1ea491/product-data--499acl-chlorine-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69270/3f6d5243a6653d91d6c92eb416bcdbf9/product-data--499acl01-free-chlorine-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71364/378779b08c03d7983512430239f34295/product-data--499acl01-free-chlorine-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/105080/c8f799a9e7e31b8bf63da16d16cc2867/product-data--499acl03-monochloramine-sensor-1-data.pdf"
+        ],
+        "name": "Rosemount\u2122 499ACL Free Chlorine Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69258/c3f9b42638ecf4a9eade26f09c091890/product-data--389---389vp-phorp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70300/9d7ceea76bd860afc2ca17031e170a33/manual--389vp-triple-junction-phorp-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/68962/4556c2ccf069d2454a62fd4d1b617acd/manual--389-triple-junction-phorp-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/68964/74e29f0e0fd3a290127070c4ee701bcf/manual--389vp-combination-phorp-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf"
+        ],
+        "name": "Rosemount\u2122 389/389VP General Purpose pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71384/32ba00c5d5208e3b3d3c82db9e085d7f/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70720/8f3e569b3f2aee0ab7835cb97c40c042/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/70678/6ab959329f769e8fa8bc251151f2bbd9/manual--3300--3400--3500-perph-x-phorp-sensors-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3400HT/3400HTVP PERpH-X\u2122 pH/ORP Retractable Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71384/32ba00c5d5208e3b3d3c82db9e085d7f/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70720/8f3e569b3f2aee0ab7835cb97c40c042/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/70678/6ab959329f769e8fa8bc251151f2bbd9/manual--3300--3400--3500-perph-x-phorp-sensors-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3500P/3500VP PERpH-X\u2122 pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69098/edf837c16dac54b875e798c86538b2ab/manual--498cl-ph-independent-free-chlorine-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69268/8967c77a25ad01200fc077149b207c9c/product-data--498cl-01-ph-independent-chlorine-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71362/712b751bf46424894f49a44283d78916/product-data--498cl-01-ph-independent-chlorine-sensor---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 498CL pH-Independent Free Chlorine Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69122/c805e7273da5bf4d6a74fb9c165f5b30/manual--hx438--gx448-dissolved-oxygen-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69300/08bf3327c398f25b6cf93e8c1654f166/product-data--hx338--hx348--hx438--328a--403-and-gx448-conductivity--dissolved-oxygen-and-ph-sensors-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Hx438 Steam Sterilizable DO Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69124/8ec94ec694b9dbdf24340d2ae863f31a/manual--hx338--hx348-ph-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/71132/79121d78126b7f5e58da8570ed6e41d6/manual--hx338-ph-sensor-retractable-mounting-assembly-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69300/08bf3327c398f25b6cf93e8c1654f166/product-data--hx338--hx348--hx438--328a--403-and-gx448-conductivity--dissolved-oxygen-and-ph-sensors-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Hx338 Steam Sterilizable & Autoclavable pH Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69016/587529c7e3d75728129ce9cbe3ef5552/manual--mcl-monochloramine-measurement-with-1056-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69018/7c84b10b51917b679221be688a912541/manual--mcl-monochloramine-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/69296/80b55962d5d26e971d769f94c2823af4/product-data--mcl-monochloramine-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69104/9ae55f2d2593fd14a8b356772d2bb218/manual--499acl-03-monochloramine-sensor-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 MCL Monochloramine Measuring System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70262/7cabf4ed616ee7243ecc6929118c93d6/manual--fcl-free-chlorine-system-with-1056-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/71166/1609b58735ad47008e9a6182ba3aa2d9/manual--fcl-free-chlorine-system-with-56-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69010/054063c0bc246397cf0213f033bb39a9/manual--fcl-free-chlorine-measuring-system-data.pdf",
+            "http://www.emerson.com/resource/blob/69290/37204cb0b5a0aaa90d465bde6dd48074/product-data--fcl-free-chlorine-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 FCL Free Chlorine Measuring System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69028/7778b015bab09157d4a76539578f0418/manual--tcl-total-chlorine-analyzer-with-1056-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69304/989fa65d3a0a50cb5c9376ca8406dd16/product-data--tcl-total-chlorine-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/71164/129191b39134f575e965f9131db1cfac/manual--tcl-total-chlorine-analyzer-with-56-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 TCL Total Chlorine Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71358/47e8367786fd687711a5b94e209e6f46/product-data--3800-pur-sense-steam-sterilizable-ph-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69080/339835dd12ed9cee9b2494ffd98e116b/manual--3800-pur-sense-ph-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69252/84b11b45d6005e29ab760bccc6c2bf4f/product-data--3800-pur-sense-steam-sterilizable-ph-sensor-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3800/3800VP PUR-Sense\u2122 Autoclavable and Steam Sterilize pH Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/68896/20a2feae1092b9763fee29d39c49a5a7/manual--conductance-data-for-commonly-used-chemicals-data.pdf",
+            "http://www.emerson.com/resource/blob/70700/15a2c399007fb66f9d69669a365fd441/manual--140--141--142-conductivity-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/105076/78adf458ded93ce063d826139c22c079/product-data--140--141--142-conductivity-sensors-1-data.pdf"
+        ],
+        "name": "Rosemount\u2122 141 Insertion Conductivity Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69250/e72bc50aa800a4dc97ec15bc847192d6/product-data--372-hf-resistant-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69078/aca436bcff98b7ff3db4801cbca62f2b/manual--372-ph-sensor-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 372 Hydrofluoric Acid (HF) Resistant pH sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69292/f636e8b779ca81d1a0b2281eaccf9a49/product-data--fcli-ph-independent-chlorine-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69014/75b3667d593e49699b738de1f3797418/manual--fcli-free-chlorine-monitoring-system-data.pdf",
+            "http://www.emerson.com/resource/blob/71170/a7c890d6e264c5ff24e0d365eca55bde/manual--fcli-free-chlorine-system-with-1056-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 FCLi Free Chlorine Measuring System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69066/8f05be0e84f16fcf9d4ab672bc761de4/manual--3200-phaser-high-purity-ph-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69244/1360d8438230a1d07ee0ba5f1295a696/product-data--3200hp-phaser-high-purity-water-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71356/5adf794df52dfbe5ec6906641cf158e0/product-data--3200hp-phaser-high-purity-water-ph-sensor---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3200HP pHaser\u2122 High Purity Water pH Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/68896/20a2feae1092b9763fee29d39c49a5a7/manual--conductance-data-for-commonly-used-chemicals-data.pdf",
+            "http://www.emerson.com/resource/blob/70700/15a2c399007fb66f9d69669a365fd441/manual--140--141--142-conductivity-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/105076/78adf458ded93ce063d826139c22c079/product-data--140--141--142-conductivity-sensors-1-data.pdf"
+        ],
+        "name": "Rosemount\u2122 140 Retractable Conductivity Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71040/2fce1911e34193ac35fc4545186d20c1/manual--model-rb-submersioninline-ph-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/71386/eb37157e828465b0c79c823a14975704/product-data--model-rb-submersionin-line-ph-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/105148/05d916ac62667415fead6a9e4ef83572/product-data--model-rb-submersionin-line-ph-sensor-2-data.pdf"
+        ],
+        "name": "Rosemount\u2122 RBI pH/ORP Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69254/a1739fbfa7406015d0adc0f8268c5787/product-data--385--triple-junction-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/69256/a04bd3c9b1be12cc86b2e998a6a62352/product-data--385-retractable-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/68958/6d630d1f2ec34c937910bf5801e9b3ef/manual--385--triple-junction-phorp-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf"
+        ],
+        "name": "Rosemount\u2122 385/385+ General Purpose pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71384/32ba00c5d5208e3b3d3c82db9e085d7f/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70720/8f3e569b3f2aee0ab7835cb97c40c042/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/70678/6ab959329f769e8fa8bc251151f2bbd9/manual--3300--3400--3500-perph-x-phorp-sensors-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3500P/3500VP PERpH-X\u2122 pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69100/f58e02325e311a4c0fc25c516ee9a7b4/manual--499acl-01-free-chlorine-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69324/3b5f6b1a3a460a5c607599f05d1ea491/product-data--499acl-chlorine-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69270/3f6d5243a6653d91d6c92eb416bcdbf9/product-data--499acl01-free-chlorine-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71364/378779b08c03d7983512430239f34295/product-data--499acl01-free-chlorine-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/105080/c8f799a9e7e31b8bf63da16d16cc2867/product-data--499acl03-monochloramine-sensor-1-data.pdf"
+        ],
+        "name": "Rosemount\u2122 499ACL Free Chlorine Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69278/830d66c79c9fe080b168df07309c6cab/product-data--499atrdo-trace-dissolved-oxygen-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69110/56a4396065c84c15398753b9f81fc104/manual--499atrdo-trace-dissolved-oxygen-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69328/f850bd4166ef523832100128588fa5fa/product-data--499atrdo-trace-dissolved-oxygen-sensor---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 499ATrDO Trace Dissolved Oxygen Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69258/c3f9b42638ecf4a9eade26f09c091890/product-data--389---389vp-phorp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70300/9d7ceea76bd860afc2ca17031e170a33/manual--389vp-triple-junction-phorp-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/68962/4556c2ccf069d2454a62fd4d1b617acd/manual--389-triple-junction-phorp-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/68964/74e29f0e0fd3a290127070c4ee701bcf/manual--389vp-combination-phorp-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf"
+        ],
+        "name": "Rosemount\u2122 389/389VP General Purpose pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70714/1491df23459e2c551830736f26889cbc/manual--39003900vp-general-purpose-phorp-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/71360/2bdb29f1bb29568b5dd9b52b3a947465/product-data--model-3900-and-3900vp-general-purpose-ph-sensors---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3900 General Purpose pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71384/32ba00c5d5208e3b3d3c82db9e085d7f/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70720/8f3e569b3f2aee0ab7835cb97c40c042/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/70678/6ab959329f769e8fa8bc251151f2bbd9/manual--3300--3400--3500-perph-x-phorp-sensors-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3400HT/3400HTVP PERpH-X\u2122 pH/ORP Retractable Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71384/32ba00c5d5208e3b3d3c82db9e085d7f/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70720/8f3e569b3f2aee0ab7835cb97c40c042/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/70678/6ab959329f769e8fa8bc251151f2bbd9/manual--3300--3400--3500-perph-x-phorp-sensors-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3300HT and 3300HTVP PERpH-X\u2122 High Performance pH and ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69248/13a13e60ed652cd03de31f4d12ff64c3/product-data--328a-steam-sterilizable-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69300/08bf3327c398f25b6cf93e8c1654f166/product-data--hx338--hx348--hx438--328a--403-and-gx448-conductivity--dissolved-oxygen-and-ph-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/68952/463018e8522c8208e93ffe3ea990bf22/manual--328a-steam-sterilizable-ph-sensor-data.pdf"
+        ],
+        "name": "Rosemount\u2122 328A Steam Sterilizable pH Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69276/8e71e418b45efa29d7b5388046112aa5/product-data--499aoz-dissolved-ozone-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69108/b21f8a88fe7305536643a88a58b20f1e/manual--499aoz-dissolved-ozone-sensor-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 499AOZ Amperometric Ozone Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72870/4baa9509937105d25524edcedc6db6ca/manual--ct2211-aerosol-leak-detection-system-data.pdf",
+            "http://www.emerson.com/resource/blob/72940/56149904ceafee80e6eda45e5677a78c/product-data--ct2211-aerosol-leak-detection-system---chinese-data.pdf"
+        ],
+        "name": "Cascade\u2122 CT2211 Aerosol Microleak Detection System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69470/8d2111af3dad2a1f62fa50cc4b623e6c/product-data--hagan-pneumatic-power-positioners-data.pdf",
+            "http://www.emerson.com/resource/blob/70038/d1a97985cc4e59ea44667007372eb5b8/manual--hagan-8-x-14-torque-type-power-positioner---rev-1-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69474/61b1954b1c7ffa15b088273fba042349/product-data--503-hagan-sample-cooler-styles-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Hagan Power Positioner 8x14 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators 6x10 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70660/db88cb9c19bd0dc20b8082ee04e0791d/manual--xi-advanced-electronics-for-zirconium-oxide-flue-gas-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Xi Advanced Electronics"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/73080/1e1b5c79f1e43eadedf72adc971ef38a/manual--rosemount-ct5400-continuous-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/72658/59559acb99bb5b8efbc19077dc29eb7b/product-data--ct5400-continuous-gas-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 CT5400 Continuous Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/70500/435c80b3b9278d58da91035f85a75767/product-data--5081fg-2-wire-in-situ-oxygen-analyzer---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69690/d1b8100c535d34d2369fee0a70582d25/manual--5081fg-2-wire-in-situ-o2-analyzer--550--to-1600-c----rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69426/418a19eed11d1126a7402beb96dbd3a6/product-data--5081fg-two-wire-in-situ-oxygen-analyzer--550--to-1600-c--data.pdf"
+        ],
+        "name": "Rosemount\u2122 5081FG High Temperature Oxygen Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/73004/6a8c6f7796cabb74e1cb34f0d75e07f9/product-data--rosemount--ct5100-continuous-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/73096/2bf2c551d8a712146e59a79b377ea693/manual--rosemount--ct5100--ex--continuous-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/73020/d00d6c77947c95778af58320e3e98021/manual--rosemount--ct5100-continuous-gas-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 CT5100 Continuous Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69840/fa8b57cf89d0fafce50f24d35b626b0f/manual--opm-3000-opacity--dust-density-monitor---rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/71978/15afd172a3734b103e384b96e5f2cc2c/product-data--opm-3000-opacitydust-density-monitor-data.pdf"
+        ],
+        "name": "Rosemount\u2122 OPM3000 Opacity Dust Density Monitor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69736/4bd812423ce17e2ed01eba3a2b02a68c/manual--powervue-4-x-5-fandamper-actuator-torque-type-with-retrofit-kit-installation-instructions---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators 4x5 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69742/b9a08ee3ae69d5ae633121ca42d9a0f3/manual--powervue-8-x-14-fandamper-actuator-torque-type-with-retrofit-kit-installation-instructions---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators 8x14 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72496/f60fca1eac2c6b945d88fc5002cde709/manual--6888-integral-autocal-quick-installation-guide-data.pdf",
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/105176/4608161eb85f8f11532397fc512a4234/product-data--6888-in-situ-flue-gas-oxygen-transmitter-1-data.pdf",
+            "http://www.emerson.com/resource/blob/72256/4905912975d5d0a4e24b7cbd7f1f5399/manual--6888a-o2-combustion-flue-gas-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/71300/7b61a2c3468293f99ac9927c00e7f8bb/manual--6888-in-situ-combustion-o2-analyzer-quick-start-up-manual-data.pdf",
+            "http://www.emerson.com/resource/blob/71284/63f887e1b3146fd10b35ecd4d9bbd776/product-data--6888-in-situ-flue-gas-oxygen-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/71306/1d49f019d784349a8fd90e87e4cbaed4/product-data--6888-in-situ-flue-gas-oxygen-transmitter---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 6888 In Situ Oxygen Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators Retrofit Kit 4x5 and 8x14"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72632/82c3518a8d6386bef8821628beaea6ca/product-data--ct3204-pmdi-leak-detection-system-data.pdf"
+        ],
+        "name": "Cascade\u2122 CT3204 pMDI Leak Detection System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69728/5cb02c64b3980556af79aa21df269dcc/manual--cco-5500-carbon-monoxide--co--analyzer---rev-1-0-data.pdf",
+            "http://www.emerson.com/resource/blob/70576/f664123350ab94eed4ff0394f15f42a6/product-data--cco-5500-carbon-monoxide--co--analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 CCO 5500 Carbon Monoxide (CO) Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69826/5293a1e34d16ebfb54fcd74f6af1d26c/manual--oxybalance-oxygen-display-and-averaging-system---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69466/4f72c2473ef5125067b592b02f994b87/product-data--oxybalance-oxygen-display-and-averaging-system-data.pdf"
+        ],
+        "name": "Rosemount\u2122 OxyBalance Oxygen Display and Averaging System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71328/fd8cd493aa790c4d4495f678f02c5427/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69852/dab60d4524d9b247f861e713d85cd359/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-integral-electronics---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69864/ccdf9a138a9f837fedd46c76712c140c/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-remote-electronics---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69858/a640cc677b9937d04c00adf2444abaad/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-remote-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69888/20b95e44a0fbeb688d0781cea707ad89/manual--ocx-8800-o2--combustibles-transmitter-general-purpose-with-remote-electronics---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69846/174e4bce18466c5c400ea90f7d546281/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-integral-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69870/34e9dc98190527a704b4e52375fd4761/manual--ocx-8800-o2--combustibles-transmitter-general-purpose-with-integral-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69882/a1d6a2c5144bfcef6f652030cd726c1c/manual--ocx-8800-o2--combustibles-transmitter-general-purpose-with-remote-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/70288/98326c08f61f8a56408daf176f25abb6/product-data--ocx-8800-oxygencombustibles-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/69876/73f8b152381f51e4f4d61fd85b7fdd70/manual--ocx-8800-o2--combustibles-transmitter-general-purpose---rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69464/d4b54dfdb0d596e18acca3a588003ad9/product-data--ocx-8800-oxygencombustibles-transmitter--%25E4%25B8%25AD%25E5%259B%25BD--data.pdf"
+        ],
+        "name": "Rosemount\u2122 OCX8800 Oxygen and Combustibles Transmitter"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71184/cdb94bac8922d98cebb2186ec6b93ca4/product-data--x-stream-enhanced-general-purpose-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/71320/615dd9a16c0904a63aa63a2fbb2cf0e0/product-data--x-stream-enhanced-compact-gas-analyzer---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71964/ed915713859cf697054dada786de2c16/manual--x-stream-enhanced-short-form-manual---7th-ed--data.pdf",
+            "http://www.emerson.com/resource/blob/71322/fce102242f8b15fb17ca0b8bda34db6f/product-data--x-stream-enhanced-general-purpose-gas-analyzer---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71966/b5a8f7d3320ee205daa857c1492f148d/manual--x-stream-enhanced-gas-analyzer-series-instruction-manual---6th-ed--data.pdf",
+            "http://www.emerson.com/resource/blob/71324/ad066fd96bca4c0d741b54d1c472dd69/product-data--x-stream-enhanced-field-housing-gas-analyzer---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 X-STREAM Enhanced XEGP Continuous Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72656/bada814177e31bf7683faddd4b42e419/product-data--ct4000-oem-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/72872/69458dbc52c0035c2f8f9617f1ab091b/manual--ct4000-oem-module-data.pdf"
+        ],
+        "name": "Cascade\u2122 CT4000 Ruggedized OEM Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71330/ceaf42eece75012968a65ed4ba0a6e8f/manual--oxymitter-4000-o2-transmitter---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69816/fdec8beff7f2846bfc20320b41f41708/manual--oxymitter-4000-instruction-bulletin-addendum-for-pressure-balanced-in-situ-o2-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/69820/6cf144f1592afb7cea57dc280f2924ea/manual--oxymitter-4000-instruction-bulletin-addendum-for-pressure-balanced-in-situ-o2-probes-pn-6a00197g01-g06---rev--3-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69796/c9549afd900b0a5bd052812ee972d8cf/manual--oxymitter-4000-o2-transmitter-sulfur-resistant---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69818/88967967f473132028542387fc3226f5/manual--oxymitter-4000-optional-isolation-valving-system-used-with-rosemount-analytical-in-situ-oxygen-probes---instruction-bulletin-addendum---rev--3-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69814/8aa7878288791d4b081d4dce56124183/manual--oxymitter-4000-o2-transmitter---rev-4-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69438/7f1d299742f05758296b79310931afd1/product-data--bypass-oxygen-analyzer-package-data.pdf",
+            "http://www.emerson.com/resource/blob/71178/3a3f1ff10e7cca21dc93327f0db3a169/product-data--oxymitter-in-situ-oxygen-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/105106/0b3426dbb712b54440b0cb955417e92e/product-data--oxymitter-in-situ-oxygen-transmitter-for-hazardous-area-applications-2-data.pdf",
+            "http://www.emerson.com/resource/blob/70218/724b05a37a3fd7cec4f5e21c5498bd64/comb-manual-imps-4000-data.pdf",
+            "http://www.emerson.com/resource/blob/69798/b0a5eea04ff2b4ead9ec9705400e58ad/manual--oxymitter-4000-and-oxymitter-5000-modification-instructions-converting-oxymitter-integral-probe-to-split-architecture-configuration-data.pdf",
+            "http://www.emerson.com/resource/blob/70212/53432ab6505b36269f03805883a8c231/manual--sps-4001b-single-probe-autocalibration-sequencer---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69468/387862638fe52c03a364b1e8be1531d6/product-data--oxymitter-400-in-situ-flue-gas-oxygen-transmitter--%25E4%25B8%25AD%25E5%259B%25BD--data.pdf",
+            "http://www.emerson.com/resource/blob/69792/b83a39acf4556b0d466c1ff3f23af60b/manual--oxymitter-4000-o2-transmitter-hazardous-area---rev-4-4-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Oxymitter\u2122 4000 In Situ Oxygen Transmitter"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/69442/6c02d4b959369de1b1bd137272ce03dd/product-data--oxymitter-dr-direct-replacement-replacement-flue-gas-oxygen-probe-data.pdf",
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69748/2b3320c2ad75c921224820db09c78dd2/manual--oxymitter-dr-in-situ-o2-probe---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69438/7f1d299742f05758296b79310931afd1/product-data--bypass-oxygen-analyzer-package-data.pdf",
+            "http://www.emerson.com/resource/blob/71178/3a3f1ff10e7cca21dc93327f0db3a169/product-data--oxymitter-in-situ-oxygen-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/105106/0b3426dbb712b54440b0cb955417e92e/product-data--oxymitter-in-situ-oxygen-transmitter-for-hazardous-area-applications-2-data.pdf",
+            "http://www.emerson.com/resource/blob/70218/724b05a37a3fd7cec4f5e21c5498bd64/comb-manual-imps-4000-data.pdf",
+            "http://www.emerson.com/resource/blob/70212/53432ab6505b36269f03805883a8c231/manual--sps-4001b-single-probe-autocalibration-sequencer---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69468/387862638fe52c03a364b1e8be1531d6/product-data--oxymitter-400-in-situ-flue-gas-oxygen-transmitter--%25E4%25B8%25AD%25E5%259B%25BD--data.pdf"
+        ],
+        "name": "Rosemount\u2122 Oxymitter\u2122 Direct Replacement Oxygen Probes"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71980/6529c9ef61d059b814bab6f8fc9fd008/product-data--opm-4001-opacitydust-density-monitor-data.pdf",
+            "http://www.emerson.com/resource/blob/69832/16416c288b9285933228db403172ed68/manual--opm-4000-opacity--dust-density-monitor---rev-1-3-data.pdf"
+        ],
+        "name": "Rosemount\u2122 OPM4001 Opacity Dust Density Monitor - EPA Compliant"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/70036/84120e770b51d0d672516d456ed0a55e/manual--hagan-6-x-10-torque-type-power-positioner---rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69470/8d2111af3dad2a1f62fa50cc4b623e6c/product-data--hagan-pneumatic-power-positioners-data.pdf",
+            "http://www.emerson.com/resource/blob/69474/61b1954b1c7ffa15b088273fba042349/product-data--503-hagan-sample-cooler-styles-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Hagan Power Positioner 6x10 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69470/8d2111af3dad2a1f62fa50cc4b623e6c/product-data--hagan-pneumatic-power-positioners-data.pdf",
+            "http://www.emerson.com/resource/blob/69474/61b1954b1c7ffa15b088273fba042349/product-data--503-hagan-sample-cooler-styles-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Hagan Power Positioner 4x5 Thrust Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72656/bada814177e31bf7683faddd4b42e419/product-data--ct4000-oem-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/72872/69458dbc52c0035c2f8f9617f1ab091b/manual--ct4000-oem-module-data.pdf"
+        ],
+        "name": "Cascade\u2122 CT4000 Ruggedized OEM Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/73080/1e1b5c79f1e43eadedf72adc971ef38a/manual--rosemount-ct5400-continuous-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/72658/59559acb99bb5b8efbc19077dc29eb7b/product-data--ct5400-continuous-gas-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 CT5400 Continuous Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69742/b9a08ee3ae69d5ae633121ca42d9a0f3/manual--powervue-8-x-14-fandamper-actuator-torque-type-with-retrofit-kit-installation-instructions---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators 8x14 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69826/5293a1e34d16ebfb54fcd74f6af1d26c/manual--oxybalance-oxygen-display-and-averaging-system---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69466/4f72c2473ef5125067b592b02f994b87/product-data--oxybalance-oxygen-display-and-averaging-system-data.pdf"
+        ],
+        "name": "Rosemount\u2122 OxyBalance Oxygen Display and Averaging System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69728/5cb02c64b3980556af79aa21df269dcc/manual--cco-5500-carbon-monoxide--co--analyzer---rev-1-0-data.pdf",
+            "http://www.emerson.com/resource/blob/70576/f664123350ab94eed4ff0394f15f42a6/product-data--cco-5500-carbon-monoxide--co--analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 CCO 5500 Carbon Monoxide (CO) Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/73004/6a8c6f7796cabb74e1cb34f0d75e07f9/product-data--rosemount--ct5100-continuous-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/73096/2bf2c551d8a712146e59a79b377ea693/manual--rosemount--ct5100--ex--continuous-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/73020/d00d6c77947c95778af58320e3e98021/manual--rosemount--ct5100-continuous-gas-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 CT5100 Continuous Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72870/4baa9509937105d25524edcedc6db6ca/manual--ct2211-aerosol-leak-detection-system-data.pdf",
+            "http://www.emerson.com/resource/blob/72940/56149904ceafee80e6eda45e5677a78c/product-data--ct2211-aerosol-leak-detection-system---chinese-data.pdf"
+        ],
+        "name": "Cascade\u2122 CT2211 Aerosol Microleak Detection System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70660/db88cb9c19bd0dc20b8082ee04e0791d/manual--xi-advanced-electronics-for-zirconium-oxide-flue-gas-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Xi Advanced Electronics"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69470/8d2111af3dad2a1f62fa50cc4b623e6c/product-data--hagan-pneumatic-power-positioners-data.pdf",
+            "http://www.emerson.com/resource/blob/70038/d1a97985cc4e59ea44667007372eb5b8/manual--hagan-8-x-14-torque-type-power-positioner---rev-1-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69474/61b1954b1c7ffa15b088273fba042349/product-data--503-hagan-sample-cooler-styles-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Hagan Power Positioner 8x14 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72496/f60fca1eac2c6b945d88fc5002cde709/manual--6888-integral-autocal-quick-installation-guide-data.pdf",
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/105176/4608161eb85f8f11532397fc512a4234/product-data--6888-in-situ-flue-gas-oxygen-transmitter-1-data.pdf",
+            "http://www.emerson.com/resource/blob/72256/4905912975d5d0a4e24b7cbd7f1f5399/manual--6888a-o2-combustion-flue-gas-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/71300/7b61a2c3468293f99ac9927c00e7f8bb/manual--6888-in-situ-combustion-o2-analyzer-quick-start-up-manual-data.pdf",
+            "http://www.emerson.com/resource/blob/71284/63f887e1b3146fd10b35ecd4d9bbd776/product-data--6888-in-situ-flue-gas-oxygen-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/71306/1d49f019d784349a8fd90e87e4cbaed4/product-data--6888-in-situ-flue-gas-oxygen-transmitter---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 6888 In Situ Oxygen Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators 6x10 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72632/82c3518a8d6386bef8821628beaea6ca/product-data--ct3204-pmdi-leak-detection-system-data.pdf"
+        ],
+        "name": "Cascade\u2122 CT3204 pMDI Leak Detection System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/70500/435c80b3b9278d58da91035f85a75767/product-data--5081fg-2-wire-in-situ-oxygen-analyzer---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69690/d1b8100c535d34d2369fee0a70582d25/manual--5081fg-2-wire-in-situ-o2-analyzer--550--to-1600-c----rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69426/418a19eed11d1126a7402beb96dbd3a6/product-data--5081fg-two-wire-in-situ-oxygen-analyzer--550--to-1600-c--data.pdf"
+        ],
+        "name": "Rosemount\u2122 5081FG High Temperature Oxygen Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69470/8d2111af3dad2a1f62fa50cc4b623e6c/product-data--hagan-pneumatic-power-positioners-data.pdf",
+            "http://www.emerson.com/resource/blob/69474/61b1954b1c7ffa15b088273fba042349/product-data--503-hagan-sample-cooler-styles-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Hagan Power Positioner 4x5 Thrust Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71980/6529c9ef61d059b814bab6f8fc9fd008/product-data--opm-4001-opacitydust-density-monitor-data.pdf",
+            "http://www.emerson.com/resource/blob/69832/16416c288b9285933228db403172ed68/manual--opm-4000-opacity--dust-density-monitor---rev-1-3-data.pdf"
+        ],
+        "name": "Rosemount\u2122 OPM4001 Opacity Dust Density Monitor - EPA Compliant"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/70036/84120e770b51d0d672516d456ed0a55e/manual--hagan-6-x-10-torque-type-power-positioner---rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69470/8d2111af3dad2a1f62fa50cc4b623e6c/product-data--hagan-pneumatic-power-positioners-data.pdf",
+            "http://www.emerson.com/resource/blob/69474/61b1954b1c7ffa15b088273fba042349/product-data--503-hagan-sample-cooler-styles-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Hagan Power Positioner 6x10 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71330/ceaf42eece75012968a65ed4ba0a6e8f/manual--oxymitter-4000-o2-transmitter---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69816/fdec8beff7f2846bfc20320b41f41708/manual--oxymitter-4000-instruction-bulletin-addendum-for-pressure-balanced-in-situ-o2-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/69820/6cf144f1592afb7cea57dc280f2924ea/manual--oxymitter-4000-instruction-bulletin-addendum-for-pressure-balanced-in-situ-o2-probes-pn-6a00197g01-g06---rev--3-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69796/c9549afd900b0a5bd052812ee972d8cf/manual--oxymitter-4000-o2-transmitter-sulfur-resistant---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69818/88967967f473132028542387fc3226f5/manual--oxymitter-4000-optional-isolation-valving-system-used-with-rosemount-analytical-in-situ-oxygen-probes---instruction-bulletin-addendum---rev--3-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69814/8aa7878288791d4b081d4dce56124183/manual--oxymitter-4000-o2-transmitter---rev-4-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69438/7f1d299742f05758296b79310931afd1/product-data--bypass-oxygen-analyzer-package-data.pdf",
+            "http://www.emerson.com/resource/blob/71178/3a3f1ff10e7cca21dc93327f0db3a169/product-data--oxymitter-in-situ-oxygen-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/105106/0b3426dbb712b54440b0cb955417e92e/product-data--oxymitter-in-situ-oxygen-transmitter-for-hazardous-area-applications-2-data.pdf",
+            "http://www.emerson.com/resource/blob/70218/724b05a37a3fd7cec4f5e21c5498bd64/comb-manual-imps-4000-data.pdf",
+            "http://www.emerson.com/resource/blob/69798/b0a5eea04ff2b4ead9ec9705400e58ad/manual--oxymitter-4000-and-oxymitter-5000-modification-instructions-converting-oxymitter-integral-probe-to-split-architecture-configuration-data.pdf",
+            "http://www.emerson.com/resource/blob/70212/53432ab6505b36269f03805883a8c231/manual--sps-4001b-single-probe-autocalibration-sequencer---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69468/387862638fe52c03a364b1e8be1531d6/product-data--oxymitter-400-in-situ-flue-gas-oxygen-transmitter--%25E4%25B8%25AD%25E5%259B%25BD--data.pdf",
+            "http://www.emerson.com/resource/blob/69792/b83a39acf4556b0d466c1ff3f23af60b/manual--oxymitter-4000-o2-transmitter-hazardous-area---rev-4-4-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Oxymitter\u2122 4000 In Situ Oxygen Transmitter"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71184/cdb94bac8922d98cebb2186ec6b93ca4/product-data--x-stream-enhanced-general-purpose-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/71320/615dd9a16c0904a63aa63a2fbb2cf0e0/product-data--x-stream-enhanced-compact-gas-analyzer---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71964/ed915713859cf697054dada786de2c16/manual--x-stream-enhanced-short-form-manual---7th-ed--data.pdf",
+            "http://www.emerson.com/resource/blob/71322/fce102242f8b15fb17ca0b8bda34db6f/product-data--x-stream-enhanced-general-purpose-gas-analyzer---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71966/b5a8f7d3320ee205daa857c1492f148d/manual--x-stream-enhanced-gas-analyzer-series-instruction-manual---6th-ed--data.pdf",
+            "http://www.emerson.com/resource/blob/71324/ad066fd96bca4c0d741b54d1c472dd69/product-data--x-stream-enhanced-field-housing-gas-analyzer---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 X-STREAM Enhanced XEGP Continuous Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71328/fd8cd493aa790c4d4495f678f02c5427/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69852/dab60d4524d9b247f861e713d85cd359/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-integral-electronics---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69864/ccdf9a138a9f837fedd46c76712c140c/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-remote-electronics---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69858/a640cc677b9937d04c00adf2444abaad/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-remote-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69888/20b95e44a0fbeb688d0781cea707ad89/manual--ocx-8800-o2--combustibles-transmitter-general-purpose-with-remote-electronics---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69846/174e4bce18466c5c400ea90f7d546281/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-integral-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69870/34e9dc98190527a704b4e52375fd4761/manual--ocx-8800-o2--combustibles-transmitter-general-purpose-with-integral-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69882/a1d6a2c5144bfcef6f652030cd726c1c/manual--ocx-8800-o2--combustibles-transmitter-general-purpose-with-remote-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/70288/98326c08f61f8a56408daf176f25abb6/product-data--ocx-8800-oxygencombustibles-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/69876/73f8b152381f51e4f4d61fd85b7fdd70/manual--ocx-8800-o2--combustibles-transmitter-general-purpose---rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69464/d4b54dfdb0d596e18acca3a588003ad9/product-data--ocx-8800-oxygencombustibles-transmitter--%25E4%25B8%25AD%25E5%259B%25BD--data.pdf"
+        ],
+        "name": "Rosemount\u2122 OCX8800 Oxygen and Combustibles Transmitter"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/69442/6c02d4b959369de1b1bd137272ce03dd/product-data--oxymitter-dr-direct-replacement-replacement-flue-gas-oxygen-probe-data.pdf",
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69748/2b3320c2ad75c921224820db09c78dd2/manual--oxymitter-dr-in-situ-o2-probe---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69438/7f1d299742f05758296b79310931afd1/product-data--bypass-oxygen-analyzer-package-data.pdf",
+            "http://www.emerson.com/resource/blob/71178/3a3f1ff10e7cca21dc93327f0db3a169/product-data--oxymitter-in-situ-oxygen-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/105106/0b3426dbb712b54440b0cb955417e92e/product-data--oxymitter-in-situ-oxygen-transmitter-for-hazardous-area-applications-2-data.pdf",
+            "http://www.emerson.com/resource/blob/70218/724b05a37a3fd7cec4f5e21c5498bd64/comb-manual-imps-4000-data.pdf",
+            "http://www.emerson.com/resource/blob/70212/53432ab6505b36269f03805883a8c231/manual--sps-4001b-single-probe-autocalibration-sequencer---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69468/387862638fe52c03a364b1e8be1531d6/product-data--oxymitter-400-in-situ-flue-gas-oxygen-transmitter--%25E4%25B8%25AD%25E5%259B%25BD--data.pdf"
+        ],
+        "name": "Rosemount\u2122 Oxymitter\u2122 Direct Replacement Oxygen Probes"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators Retrofit Kit 4x5 and 8x14"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69736/4bd812423ce17e2ed01eba3a2b02a68c/manual--powervue-4-x-5-fandamper-actuator-torque-type-with-retrofit-kit-installation-instructions---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators 4x5 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69840/fa8b57cf89d0fafce50f24d35b626b0f/manual--opm-3000-opacity--dust-density-monitor---rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/71978/15afd172a3734b103e384b96e5f2cc2c/product-data--opm-3000-opacitydust-density-monitor-data.pdf"
+        ],
+        "name": "Rosemount\u2122 OPM3000 Opacity Dust Density Monitor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72518/ef81b9613bb200102c88d4ba0f2b9185/product-data--gda---gas-and-smoke-aspirator-systems-data.pdf"
+        ],
+        "name": "GDA - Gas & Smoke Aspirator Systems"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71618/85ab56e6be47f775287fdcf4e74e98c0/manual--safeguard-16-channel-controller-data.pdf",
+            "http://www.emerson.com/resource/blob/71650/3f2945954b496180c5f1701349c74d0b/product-data--safeguard-alarm-controller-data.pdf"
+        ],
+        "name": "Net Safety Safeguard Alarm Controller"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72962/0031a2e760332ccb4bf043cfa3133ec9/manual--975hr-multi-spectrum-infrared-hydrogen-flame-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/73102/5ab0e3745c9c44493602e684b1e114fe/product-data--flame-simulator--fs-hr-975-data.pdf",
+            "http://www.emerson.com/resource/blob/72984/e0f838e2a7874e6a779c7aded22e9d8c/manual--975hr-multi-spectrum-infrared-hydrogen-flame-detector---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/73084/4fc205d3527c42b0a06c95f93533c457/manual--winhost-configuration-and-diagnostic-software-for-rosemount-975-flame-detectors-data.pdf",
+            "http://www.emerson.com/resource/blob/73074/a992935e28e48c1f2ee591fdb2746900/manual--flame-simulator--fs-hr-975-data.pdf",
+            "http://www.emerson.com/resource/blob/73006/a83ec50207e007da42bad10233bbf097/manual--installation-instructions-for-the-duct-mount-data.pdf",
+            "http://www.emerson.com/resource/blob/73082/1401685f026f986d8d13a3da327eb702/manual--975-air-shield-data.pdf",
+            "http://www.emerson.com/resource/blob/73108/054281c8f3d331a720636b546422b3ba/product-data--rosemount-975hr-multi-spectrum-infrared-hydrogen-flame-detector--chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/72968/0503ca34d89dd4f3eb42eaf8599dea93/product-data--rosemount-975hr-multi-spectrum-infrared-hydrogen-flame-detector-data.pdf"
+        ],
+        "name": "Rosemount\u2122 975HR Multi-Spectrum Infrared Hydrogen Flame Detector"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72966/278b7540443ddd81bb822192ac77b3e4/manual--975ur-uvir-flame-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/73114/b3f41f3a528a3a28658c444913c9514c/manual--975ur-uvir-flame-detector---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/73072/d5894f8fbc90aae28ff39de616c09d29/manual--flame-simulator--fs-uvir-975-data.pdf",
+            "http://www.emerson.com/resource/blob/73084/4fc205d3527c42b0a06c95f93533c457/manual--winhost-configuration-and-diagnostic-software-for-rosemount-975-flame-detectors-data.pdf",
+            "http://www.emerson.com/resource/blob/73100/cd8ece0d365b0ecba1c1d7ea715797df/product-data--flame-simulator--fs-uvir-975-data.pdf",
+            "http://www.emerson.com/resource/blob/73006/a83ec50207e007da42bad10233bbf097/manual--installation-instructions-for-the-duct-mount-data.pdf",
+            "http://www.emerson.com/resource/blob/72974/b0dd27c9b1f1b6c7e4d2b9eccf341264/product-data--rosemount-975ur-ultraviolet-infrared-flame-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/73082/1401685f026f986d8d13a3da327eb702/manual--975-air-shield-data.pdf",
+            "http://www.emerson.com/resource/blob/73112/b901d114854d0670c1abdddf210ac8c8/product-data--rosemount-975ur-ultraviolet-infrared-flame-detector---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 975UR Ultraviolet Infrared Flame Detector"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/105260/396bc8c186da378063b010b74aa137b9/product-data--millennium-air-particle-monitor-and-oil-mist-detector-1-data.pdf",
+            "http://www.emerson.com/resource/blob/71632/b40d5b56a8d7de1d8c2ac21b279cf37b/manual--udm-003-universal-duct-mount-assembly-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71634/10e4468d7952b85518319156ff03a093/manual--udm-001-002-universal-duct-mount-with-pipes-data.pdf",
+            "http://www.emerson.com/resource/blob/71614/ad3eef1ca6553cda0bd381e43923e213/manual--millennium-oil-mist-detector---air-particle-monitor--apm--data.pdf",
+            "http://www.emerson.com/resource/blob/73070/8775644f46bc38812b12d1c2c571e0f6/manual--net-safety--millennium-transmitter-replacement-board-kit-data.pdf"
+        ],
+        "name": "Net Safety Millennium Air Particle Monitor (APM)"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72516/95d94a888d01a54c68e67a2fb4330f7b/product-data--self-compensating-duct-probe-data.pdf",
+            "http://www.emerson.com/resource/blob/72520/0bfcbf00b6c195975261358713169c0a/product-data--heated-self-compensating-duct-probe-data.pdf"
+        ],
+        "name": "Self Compensating Duct Probe"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71640/9d3c731263974699e52d176894237975/manual--ssk-5-and-un-mk-3-sunshade-and-universal-mounting-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71590/23a786b1effaec4cfd28cb0e4bdf2566/manual--st3-series-toxic-gas-sensors---h2s-and-co-data.pdf",
+            "http://www.emerson.com/resource/blob/73060/88c8d3c5ef9df48339b2836a9185fd2c/manual--electrochemical-h2s-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/71676/fe374a9405833f370907f2bbf2205ee4/product-data--fixed-gas-detector-calibration-kits-data.pdf",
+            "http://www.emerson.com/resource/blob/105254/596319afc77468436ba5f05b2716a14f/product-data--st3-xchem-toxic-gas-sensors-1-data.pdf",
+            "http://www.emerson.com/resource/blob/71632/b40d5b56a8d7de1d8c2ac21b279cf37b/manual--udm-003-universal-duct-mount-assembly-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71634/10e4468d7952b85518319156ff03a093/manual--udm-001-002-universal-duct-mount-with-pipes-data.pdf",
+            "http://www.emerson.com/resource/blob/73064/4f03118698c61a0e0bf1bc6c466ebd6a/manual--flame-products-mounting-kit--un-mk-4x--data.pdf",
+            "http://www.emerson.com/resource/blob/71636/91445438b708566fb8c9f3ae4ffcc4a8/manual--ingress-protection-filter--ipf-001--data.pdf",
+            "http://www.emerson.com/resource/blob/71548/a891dff268b415c060b6631c8306b192/product-data--st3-xchem-toxic-gas-sensors-data.pdf"
+        ],
+        "name": "Net Safety Millennium II ST3 XChem Oxygen O2 Gas Sensor [Electrochemical]"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71558/c7d4e0ae13b70213d6c7db2c25f172fd/product-data--millennium-st-series-toxic-gas-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/73070/8775644f46bc38812b12d1c2c571e0f6/manual--net-safety--millennium-transmitter-replacement-board-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71632/b40d5b56a8d7de1d8c2ac21b279cf37b/manual--udm-003-universal-duct-mount-assembly-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71676/fe374a9405833f370907f2bbf2205ee4/product-data--fixed-gas-detector-calibration-kits-data.pdf",
+            "http://www.emerson.com/resource/blob/71624/80a297417f709eb8c5bf436231c48774/manual--millennium-st-series-toxic-gas-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/71634/10e4468d7952b85518319156ff03a093/manual--udm-001-002-universal-duct-mount-with-pipes-data.pdf"
+        ],
+        "name": "Net Safety Millennium ST Electrochemical Toxic Gas Detector"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71612/fb5af197c1871559414f0638d2e5af19/manual--hpt-001-hart-port-adaptor-data.pdf",
+            "http://www.emerson.com/resource/blob/73078/de815dff8d5a0444b7d6c0b29decbb9c/manual--man-0076-high-select-feature-addendum-data.pdf",
+            "http://www.emerson.com/resource/blob/71640/9d3c731263974699e52d176894237975/manual--ssk-5-and-un-mk-3-sunshade-and-universal-mounting-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71632/b40d5b56a8d7de1d8c2ac21b279cf37b/manual--udm-003-universal-duct-mount-assembly-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/73066/031eb4465285a5c5f2d5ca986b9db753/manual--multi-channel-transmitter---modbus-output-data.pdf",
+            "http://www.emerson.com/resource/blob/71676/fe374a9405833f370907f2bbf2205ee4/product-data--fixed-gas-detector-calibration-kits-data.pdf",
+            "http://www.emerson.com/resource/blob/71544/3cfd0970cd85f4f642ec5fa0b157d8b5/product-data--millennium-ii-m22-transmitter---dual-channel-universal-gas-monitoring-data.pdf",
+            "http://www.emerson.com/resource/blob/71582/83907013edbca4839d2404225419b76c/manual--millennium-ii-multi-channel-transmitters---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71578/050c6ee793b17770ea28b8d4f58b6e87/manual--millennium-ii-multi-channel-transmitters-data.pdf",
+            "http://www.emerson.com/resource/blob/71634/10e4468d7952b85518319156ff03a093/manual--udm-001-002-universal-duct-mount-with-pipes-data.pdf",
+            "http://www.emerson.com/resource/blob/73064/4f03118698c61a0e0bf1bc6c466ebd6a/manual--flame-products-mounting-kit--un-mk-4x--data.pdf",
+            "http://www.emerson.com/resource/blob/73068/50c5b3a088e0adc40ac5d88fee342e1b/manual--fc-wireless-enabled-feature-addendum-data.pdf"
+        ],
+        "name": "Net Safety Millennium II Dual Channel Transmitter"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71612/fb5af197c1871559414f0638d2e5af19/manual--hpt-001-hart-port-adaptor-data.pdf",
+            "http://www.emerson.com/resource/blob/73078/de815dff8d5a0444b7d6c0b29decbb9c/manual--man-0076-high-select-feature-addendum-data.pdf",
+            "http://www.emerson.com/resource/blob/71640/9d3c731263974699e52d176894237975/manual--ssk-5-and-un-mk-3-sunshade-and-universal-mounting-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71632/b40d5b56a8d7de1d8c2ac21b279cf37b/manual--udm-003-universal-duct-mount-assembly-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/73066/031eb4465285a5c5f2d5ca986b9db753/manual--multi-channel-transmitter---modbus-output-data.pdf",
+            "http://www.emerson.com/resource/blob/71676/fe374a9405833f370907f2bbf2205ee4/product-data--fixed-gas-detector-calibration-kits-data.pdf",
+            "http://www.emerson.com/resource/blob/71542/39bb836c6399a26e228e6ec37219b465/product-data--millennium-ii-m21-transmitter---single-channel-universal-gas-monitoring-data.pdf",
+            "http://www.emerson.com/resource/blob/71582/83907013edbca4839d2404225419b76c/manual--millennium-ii-multi-channel-transmitters---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71578/050c6ee793b17770ea28b8d4f58b6e87/manual--millennium-ii-multi-channel-transmitters-data.pdf",
+            "http://www.emerson.com/resource/blob/71634/10e4468d7952b85518319156ff03a093/manual--udm-001-002-universal-duct-mount-with-pipes-data.pdf",
+            "http://www.emerson.com/resource/blob/73064/4f03118698c61a0e0bf1bc6c466ebd6a/manual--flame-products-mounting-kit--un-mk-4x--data.pdf",
+            "http://www.emerson.com/resource/blob/73068/50c5b3a088e0adc40ac5d88fee342e1b/manual--fc-wireless-enabled-feature-addendum-data.pdf"
+        ],
+        "name": "Net Safety Millennium II Single Channel Transmitter"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71640/9d3c731263974699e52d176894237975/manual--ssk-5-and-un-mk-3-sunshade-and-universal-mounting-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71590/23a786b1effaec4cfd28cb0e4bdf2566/manual--st3-series-toxic-gas-sensors---h2s-and-co-data.pdf",
+            "http://www.emerson.com/resource/blob/73060/88c8d3c5ef9df48339b2836a9185fd2c/manual--electrochemical-h2s-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/71676/fe374a9405833f370907f2bbf2205ee4/product-data--fixed-gas-detector-calibration-kits-data.pdf",
+            "http://www.emerson.com/resource/blob/105254/596319afc77468436ba5f05b2716a14f/product-data--st3-xchem-toxic-gas-sensors-1-data.pdf",
+            "http://www.emerson.com/resource/blob/71632/b40d5b56a8d7de1d8c2ac21b279cf37b/manual--udm-003-universal-duct-mount-assembly-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71634/10e4468d7952b85518319156ff03a093/manual--udm-001-002-universal-duct-mount-with-pipes-data.pdf",
+            "http://www.emerson.com/resource/blob/73064/4f03118698c61a0e0bf1bc6c466ebd6a/manual--flame-products-mounting-kit--un-mk-4x--data.pdf",
+            "http://www.emerson.com/resource/blob/71636/91445438b708566fb8c9f3ae4ffcc4a8/manual--ingress-protection-filter--ipf-001--data.pdf",
+            "http://www.emerson.com/resource/blob/71548/a891dff268b415c060b6631c8306b192/product-data--st3-xchem-toxic-gas-sensors-data.pdf"
+        ],
+        "name": "Net Safety Millennium II ST3 XChem Toxic Gas Sensor [Electrochemical]"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/73070/8775644f46bc38812b12d1c2c571e0f6/manual--net-safety--millennium-transmitter-replacement-board-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71664/f8853ecdfd32a9b576f5b1ef6d701399/product-data--millennium-sc1100-catalytic-bead-lel-gas-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/71676/fe374a9405833f370907f2bbf2205ee4/product-data--fixed-gas-detector-calibration-kits-data.pdf",
+            "http://www.emerson.com/resource/blob/71620/f319aa19c6a40d5162976cf97c1e7c74/manual--millennium-sc1100-catalytic-bead-combustible-gas-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/71632/b40d5b56a8d7de1d8c2ac21b279cf37b/manual--udm-003-universal-duct-mount-assembly-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71634/10e4468d7952b85518319156ff03a093/manual--udm-001-002-universal-duct-mount-with-pipes-data.pdf"
+        ],
+        "name": "Net Safety Millennium SC1100 Catalytic Bead Combustible Gas Detector"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71640/9d3c731263974699e52d176894237975/manual--ssk-5-and-un-mk-3-sunshade-and-universal-mounting-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71598/cee277bf127d299f9ce448f57a83834d/manual--sc311-infrared-combustible-gas-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71602/d70d8786fea87e5df1c635cb5d78b376/manual--sc311-infrared-combustible-gas-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71676/fe374a9405833f370907f2bbf2205ee4/product-data--fixed-gas-detector-calibration-kits-data.pdf",
+            "http://www.emerson.com/resource/blob/71550/2bbf17896a3e4f48f6725a8621c94b88/product-data--sc311-infrared-combustible-gas-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/105256/6f6989d59c913c6323b98677e3e2ddaa/product-data--sc311-infrared-combustible-gas-sensors-1-data.pdf",
+            "http://www.emerson.com/resource/blob/71632/b40d5b56a8d7de1d8c2ac21b279cf37b/manual--udm-003-universal-duct-mount-assembly-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71634/10e4468d7952b85518319156ff03a093/manual--udm-001-002-universal-duct-mount-with-pipes-data.pdf",
+            "http://www.emerson.com/resource/blob/73064/4f03118698c61a0e0bf1bc6c466ebd6a/manual--flame-products-mounting-kit--un-mk-4x--data.pdf",
+            "http://www.emerson.com/resource/blob/71636/91445438b708566fb8c9f3ae4ffcc4a8/manual--ingress-protection-filter--ipf-001--data.pdf"
+        ],
+        "name": "Net Safety Millennium II SC311 Infrared Combustible Gas Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71640/9d3c731263974699e52d176894237975/manual--ssk-5-and-un-mk-3-sunshade-and-universal-mounting-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71552/0d90128108a0c7ca2dbdc46fe2ca5b68/product-data--sc310-catalytic-bead-combustible-gas-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/71606/6dd2d00928a45f743accaab3d0123da7/manual--sc310-catalytic-bead-combustible-gas-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71676/fe374a9405833f370907f2bbf2205ee4/product-data--fixed-gas-detector-calibration-kits-data.pdf",
+            "http://www.emerson.com/resource/blob/105258/e8a587c73a7c6ef572ff06502c109af4/product-data--sc310-catalytic-bead-combustible-gas-sensors-1-data.pdf",
+            "http://www.emerson.com/resource/blob/71632/b40d5b56a8d7de1d8c2ac21b279cf37b/manual--udm-003-universal-duct-mount-assembly-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71634/10e4468d7952b85518319156ff03a093/manual--udm-001-002-universal-duct-mount-with-pipes-data.pdf",
+            "http://www.emerson.com/resource/blob/73064/4f03118698c61a0e0bf1bc6c466ebd6a/manual--flame-products-mounting-kit--un-mk-4x--data.pdf",
+            "http://www.emerson.com/resource/blob/71636/91445438b708566fb8c9f3ae4ffcc4a8/manual--ingress-protection-filter--ipf-001--data.pdf",
+            "http://www.emerson.com/resource/blob/71610/1910f558206817e0a7eed91c0be923db/manual--sc310-catalytic-bead-combustible-gas-sensor---chinese-data.pdf"
+        ],
+        "name": "Net Safety Millennium II SC310 Catalytic Bead Combustible Gas Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72246/a439a2c48645b783819a68e296328c47/product-data--01-tt-ultrasonic-portable-test-tool-data.pdf",
+            "http://www.emerson.com/resource/blob/105288/386b6b471a2da5967cd08bdc9a3e79a0/product-data--incus-ultrasonic-gas-leak-detector-1-data.pdf",
+            "http://www.emerson.com/resource/blob/72254/a3b357c16da5c8074f68b33814da4b50/manual--incus-ultrasonic-gas-leak-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/72250/681cf6b9dd790e4d22de73e304bc3aee/product-data--ms-ultrasonic-gas-leak-mapping-services-data.pdf",
+            "http://www.emerson.com/resource/blob/72252/eb7b9902dfe5c605d990f89193b4e883/product-data--ptv-01-performance-target-verification-kit-data.pdf"
+        ],
+        "name": "Incus Ultrasonic Gas Leak Detector Wide Area Coverage for Pressurized Gas Leaks"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/73110/f88187c0b161f7073917b8146492135f/product-data--rosemount-975uf-ultra-fast-ultraviolet-infrared-flame-detector---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/73116/0b87c90439f387e9a3c2f6b909b361a3/manual--975uf-ultra-fast-uvir-flame-detector---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/73072/d5894f8fbc90aae28ff39de616c09d29/manual--flame-simulator--fs-uvir-975-data.pdf",
+            "http://www.emerson.com/resource/blob/73084/4fc205d3527c42b0a06c95f93533c457/manual--winhost-configuration-and-diagnostic-software-for-rosemount-975-flame-detectors-data.pdf",
+            "http://www.emerson.com/resource/blob/73100/cd8ece0d365b0ecba1c1d7ea715797df/product-data--flame-simulator--fs-uvir-975-data.pdf",
+            "http://www.emerson.com/resource/blob/73006/a83ec50207e007da42bad10233bbf097/manual--installation-instructions-for-the-duct-mount-data.pdf",
+            "http://www.emerson.com/resource/blob/73082/1401685f026f986d8d13a3da327eb702/manual--975-air-shield-data.pdf",
+            "http://www.emerson.com/resource/blob/72964/e5dec1ac0a90f770bf972b7f0f39decd/manual--975uf-ultra-fast-uvir-flame-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/72972/0ae9ca3b4e21262eec23a3475461c288/product-data--rosemount-975uf-ultra-fast-ultraviolet-infrared-flame-detector-data.pdf"
+        ],
+        "name": "Rosemount\u2122 975UF Ultra Fast Ultraviolet Infrared Flame Detector"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/73104/2ccfe82ff37bbf4bf80e4bba521a0990/product-data--flame-simulator--fs-ir-975-data.pdf",
+            "http://www.emerson.com/resource/blob/72978/89498c91aed662c9273330dd9022123f/manual--975mr-multi-spectrum-infrared-flame-detector---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/73084/4fc205d3527c42b0a06c95f93533c457/manual--winhost-configuration-and-diagnostic-software-for-rosemount-975-flame-detectors-data.pdf",
+            "http://www.emerson.com/resource/blob/72970/d3067fb0bc76507a6f35e82aa0fc8a34/product-data--rosemount-975mr-multi-spectrum-infrared-flame-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/73076/54d1d1818c7e33fb0bd9901d10f666a5/manual--flame-simulator--fs-ir-975-data.pdf",
+            "http://www.emerson.com/resource/blob/72960/7569b349e100cc42a7087e292651ba5a/manual--975mr-multi-spectrum-infrared-flame-detector-data.pdf",
+            "http://www.emerson.com/resource/blob/73006/a83ec50207e007da42bad10233bbf097/manual--installation-instructions-for-the-duct-mount-data.pdf",
+            "http://www.emerson.com/resource/blob/73082/1401685f026f986d8d13a3da327eb702/manual--975-air-shield-data.pdf"
+        ],
+        "name": "Rosemount\u2122 975MR Multi-spectrum Infrared Flame Detector"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71612/fb5af197c1871559414f0638d2e5af19/manual--hpt-001-hart-port-adaptor-data.pdf",
+            "http://www.emerson.com/resource/blob/73078/de815dff8d5a0444b7d6c0b29decbb9c/manual--man-0076-high-select-feature-addendum-data.pdf",
+            "http://www.emerson.com/resource/blob/71640/9d3c731263974699e52d176894237975/manual--ssk-5-and-un-mk-3-sunshade-and-universal-mounting-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71676/fe374a9405833f370907f2bbf2205ee4/product-data--fixed-gas-detector-calibration-kits-data.pdf",
+            "http://www.emerson.com/resource/blob/71586/73b9974493db86461bc945bbefe76a55/manual--millennium-ii-basic-single-channel-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/71632/b40d5b56a8d7de1d8c2ac21b279cf37b/manual--udm-003-universal-duct-mount-assembly-kit-data.pdf",
+            "http://www.emerson.com/resource/blob/71634/10e4468d7952b85518319156ff03a093/manual--udm-001-002-universal-duct-mount-with-pipes-data.pdf",
+            "http://www.emerson.com/resource/blob/73064/4f03118698c61a0e0bf1bc6c466ebd6a/manual--flame-products-mounting-kit--un-mk-4x--data.pdf",
+            "http://www.emerson.com/resource/blob/71546/8e8f7396a0d8835f5fcfa1457e5c19c5/product-data--millennium-ii-basic-m2b-transmitter---single-channel-universal-gas-monitoring-data.pdf"
+        ],
+        "name": "Net Safety Millennium II BASIC Single Channel Transmitter"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69124/8ec94ec694b9dbdf24340d2ae863f31a/manual--hx338--hx348-ph-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/71132/79121d78126b7f5e58da8570ed6e41d6/manual--hx338-ph-sensor-retractable-mounting-assembly-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69300/08bf3327c398f25b6cf93e8c1654f166/product-data--hx338--hx348--hx438--328a--403-and-gx448-conductivity--dissolved-oxygen-and-ph-sensors-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Hx338 Steam Sterilizable & Autoclavable pH Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69098/edf837c16dac54b875e798c86538b2ab/manual--498cl-ph-independent-free-chlorine-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69268/8967c77a25ad01200fc077149b207c9c/product-data--498cl-01-ph-independent-chlorine-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71362/712b751bf46424894f49a44283d78916/product-data--498cl-01-ph-independent-chlorine-sensor---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 498CL pH-Independent Free Chlorine Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71040/2fce1911e34193ac35fc4545186d20c1/manual--model-rb-submersioninline-ph-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/71386/eb37157e828465b0c79c823a14975704/product-data--model-rb-submersionin-line-ph-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/105148/05d916ac62667415fead6a9e4ef83572/product-data--model-rb-submersionin-line-ph-sensor-2-data.pdf"
+        ],
+        "name": "Rosemount\u2122 RBI pH/ORP Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69248/13a13e60ed652cd03de31f4d12ff64c3/product-data--328a-steam-sterilizable-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69300/08bf3327c398f25b6cf93e8c1654f166/product-data--hx338--hx348--hx438--328a--403-and-gx448-conductivity--dissolved-oxygen-and-ph-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/68952/463018e8522c8208e93ffe3ea990bf22/manual--328a-steam-sterilizable-ph-sensor-data.pdf"
+        ],
+        "name": "Rosemount\u2122 328A Steam Sterilizable pH Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69292/f636e8b779ca81d1a0b2281eaccf9a49/product-data--fcli-ph-independent-chlorine-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69014/75b3667d593e49699b738de1f3797418/manual--fcli-free-chlorine-monitoring-system-data.pdf",
+            "http://www.emerson.com/resource/blob/71170/a7c890d6e264c5ff24e0d365eca55bde/manual--fcli-free-chlorine-system-with-1056-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 FCLi Free Chlorine Measuring System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69066/8f05be0e84f16fcf9d4ab672bc761de4/manual--3200-phaser-high-purity-ph-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69244/1360d8438230a1d07ee0ba5f1295a696/product-data--3200hp-phaser-high-purity-water-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71356/5adf794df52dfbe5ec6906641cf158e0/product-data--3200hp-phaser-high-purity-water-ph-sensor---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3200HP pHaser\u2122 High Purity Water pH Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69016/587529c7e3d75728129ce9cbe3ef5552/manual--mcl-monochloramine-measurement-with-1056-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69018/7c84b10b51917b679221be688a912541/manual--mcl-monochloramine-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/69296/80b55962d5d26e971d769f94c2823af4/product-data--mcl-monochloramine-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69104/9ae55f2d2593fd14a8b356772d2bb218/manual--499acl-03-monochloramine-sensor-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 MCL Monochloramine Measuring System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/68896/20a2feae1092b9763fee29d39c49a5a7/manual--conductance-data-for-commonly-used-chemicals-data.pdf",
+            "http://www.emerson.com/resource/blob/70700/15a2c399007fb66f9d69669a365fd441/manual--140--141--142-conductivity-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/105076/78adf458ded93ce063d826139c22c079/product-data--140--141--142-conductivity-sensors-1-data.pdf"
+        ],
+        "name": "Rosemount\u2122 140 Retractable Conductivity Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69028/7778b015bab09157d4a76539578f0418/manual--tcl-total-chlorine-analyzer-with-1056-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69304/989fa65d3a0a50cb5c9376ca8406dd16/product-data--tcl-total-chlorine-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/71164/129191b39134f575e965f9131db1cfac/manual--tcl-total-chlorine-analyzer-with-56-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 TCL Total Chlorine Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71384/32ba00c5d5208e3b3d3c82db9e085d7f/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70720/8f3e569b3f2aee0ab7835cb97c40c042/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/70678/6ab959329f769e8fa8bc251151f2bbd9/manual--3300--3400--3500-perph-x-phorp-sensors-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3500P/3500VP PERpH-X\u2122 pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69122/c805e7273da5bf4d6a74fb9c165f5b30/manual--hx438--gx448-dissolved-oxygen-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69300/08bf3327c398f25b6cf93e8c1654f166/product-data--hx338--hx348--hx438--328a--403-and-gx448-conductivity--dissolved-oxygen-and-ph-sensors-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Hx438 Steam Sterilizable DO Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70262/7cabf4ed616ee7243ecc6929118c93d6/manual--fcl-free-chlorine-system-with-1056-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/71166/1609b58735ad47008e9a6182ba3aa2d9/manual--fcl-free-chlorine-system-with-56-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/69010/054063c0bc246397cf0213f033bb39a9/manual--fcl-free-chlorine-measuring-system-data.pdf",
+            "http://www.emerson.com/resource/blob/69290/37204cb0b5a0aaa90d465bde6dd48074/product-data--fcl-free-chlorine-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 FCL Free Chlorine Measuring System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/68896/20a2feae1092b9763fee29d39c49a5a7/manual--conductance-data-for-commonly-used-chemicals-data.pdf",
+            "http://www.emerson.com/resource/blob/70700/15a2c399007fb66f9d69669a365fd441/manual--140--141--142-conductivity-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/105076/78adf458ded93ce063d826139c22c079/product-data--140--141--142-conductivity-sensors-1-data.pdf"
+        ],
+        "name": "Rosemount\u2122 141 Insertion Conductivity Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69250/e72bc50aa800a4dc97ec15bc847192d6/product-data--372-hf-resistant-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69078/aca436bcff98b7ff3db4801cbca62f2b/manual--372-ph-sensor-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 372 Hydrofluoric Acid (HF) Resistant pH sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71358/47e8367786fd687711a5b94e209e6f46/product-data--3800-pur-sense-steam-sterilizable-ph-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69080/339835dd12ed9cee9b2494ffd98e116b/manual--3800-pur-sense-ph-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69252/84b11b45d6005e29ab760bccc6c2bf4f/product-data--3800-pur-sense-steam-sterilizable-ph-sensor-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3800/3800VP PUR-Sense\u2122 Autoclavable and Steam Sterilize pH Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70714/1491df23459e2c551830736f26889cbc/manual--39003900vp-general-purpose-phorp-sensors-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/71360/2bdb29f1bb29568b5dd9b52b3a947465/product-data--model-3900-and-3900vp-general-purpose-ph-sensors---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3900 General Purpose pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69276/8e71e418b45efa29d7b5388046112aa5/product-data--499aoz-dissolved-ozone-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69108/b21f8a88fe7305536643a88a58b20f1e/manual--499aoz-dissolved-ozone-sensor-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 499AOZ Amperometric Ozone Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71384/32ba00c5d5208e3b3d3c82db9e085d7f/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70720/8f3e569b3f2aee0ab7835cb97c40c042/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/70678/6ab959329f769e8fa8bc251151f2bbd9/manual--3300--3400--3500-perph-x-phorp-sensors-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3300HT and 3300HTVP PERpH-X\u2122 High Performance pH and ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69258/c3f9b42638ecf4a9eade26f09c091890/product-data--389---389vp-phorp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70300/9d7ceea76bd860afc2ca17031e170a33/manual--389vp-triple-junction-phorp-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/68962/4556c2ccf069d2454a62fd4d1b617acd/manual--389-triple-junction-phorp-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/68964/74e29f0e0fd3a290127070c4ee701bcf/manual--389vp-combination-phorp-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf"
+        ],
+        "name": "Rosemount\u2122 389/389VP General Purpose pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69278/830d66c79c9fe080b168df07309c6cab/product-data--499atrdo-trace-dissolved-oxygen-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/69110/56a4396065c84c15398753b9f81fc104/manual--499atrdo-trace-dissolved-oxygen-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69328/f850bd4166ef523832100128588fa5fa/product-data--499atrdo-trace-dissolved-oxygen-sensor---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 499ATrDO Trace Dissolved Oxygen Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69100/f58e02325e311a4c0fc25c516ee9a7b4/manual--499acl-01-free-chlorine-sensor-abridged-data.pdf",
+            "http://www.emerson.com/resource/blob/69324/3b5f6b1a3a460a5c607599f05d1ea491/product-data--499acl-chlorine-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69270/3f6d5243a6653d91d6c92eb416bcdbf9/product-data--499acl01-free-chlorine-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71364/378779b08c03d7983512430239f34295/product-data--499acl01-free-chlorine-sensor---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/105080/c8f799a9e7e31b8bf63da16d16cc2867/product-data--499acl03-monochloramine-sensor-1-data.pdf"
+        ],
+        "name": "Rosemount\u2122 499ACL Free Chlorine Sensor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69254/a1739fbfa7406015d0adc0f8268c5787/product-data--385--triple-junction-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/69256/a04bd3c9b1be12cc86b2e998a6a62352/product-data--385-retractable-ph-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/68958/6d630d1f2ec34c937910bf5801e9b3ef/manual--385--triple-junction-phorp-sensor-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf"
+        ],
+        "name": "Rosemount\u2122 385/385+ General Purpose pH/ORP Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71384/32ba00c5d5208e3b3d3c82db9e085d7f/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71100/56ccd5263fc51cac428bc0f92ba1386b/manual--ph-sensor-fm-hazardous-area-installation-1700727-data.pdf",
+            "http://www.emerson.com/resource/blob/70720/8f3e569b3f2aee0ab7835cb97c40c042/product-data--3300--3400--3500-perph-x-high-performance-ph-and-orp-sensors-data.pdf",
+            "http://www.emerson.com/resource/blob/70736/dc7766471ccd3e4d6fe257f75c4f2053/manual--theory-and-practice-of-ph-measurement-data.pdf",
+            "http://www.emerson.com/resource/blob/71098/a03342d5187c04aac924bed4f2770a05/manual--ph-sensor-csa-hazardous-area-installation-1700736-data.pdf",
+            "http://www.emerson.com/resource/blob/71096/93d8a8ffbcc5b67a7dffb21c26b0a586/manual--ph-sensor-baseefa-hazardous-area-installation-1700737-data.pdf",
+            "http://www.emerson.com/resource/blob/70678/6ab959329f769e8fa8bc251151f2bbd9/manual--3300--3400--3500-perph-x-phorp-sensors-abridged-data.pdf"
+        ],
+        "name": "Rosemount\u2122 3400HT/3400HTVP PERpH-X\u2122 pH/ORP Retractable Sensors"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72656/bada814177e31bf7683faddd4b42e419/product-data--ct4000-oem-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/72872/69458dbc52c0035c2f8f9617f1ab091b/manual--ct4000-oem-module-data.pdf"
+        ],
+        "name": "Cascade\u2122 CT4000 Ruggedized OEM Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators 6x10 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/73004/6a8c6f7796cabb74e1cb34f0d75e07f9/product-data--rosemount--ct5100-continuous-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/73096/2bf2c551d8a712146e59a79b377ea693/manual--rosemount--ct5100--ex--continuous-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/73020/d00d6c77947c95778af58320e3e98021/manual--rosemount--ct5100-continuous-gas-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 CT5100 Continuous Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72870/4baa9509937105d25524edcedc6db6ca/manual--ct2211-aerosol-leak-detection-system-data.pdf",
+            "http://www.emerson.com/resource/blob/72940/56149904ceafee80e6eda45e5677a78c/product-data--ct2211-aerosol-leak-detection-system---chinese-data.pdf"
+        ],
+        "name": "Cascade\u2122 CT2211 Aerosol Microleak Detection System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72632/82c3518a8d6386bef8821628beaea6ca/product-data--ct3204-pmdi-leak-detection-system-data.pdf"
+        ],
+        "name": "Cascade\u2122 CT3204 pMDI Leak Detection System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72496/f60fca1eac2c6b945d88fc5002cde709/manual--6888-integral-autocal-quick-installation-guide-data.pdf",
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/105176/4608161eb85f8f11532397fc512a4234/product-data--6888-in-situ-flue-gas-oxygen-transmitter-1-data.pdf",
+            "http://www.emerson.com/resource/blob/72256/4905912975d5d0a4e24b7cbd7f1f5399/manual--6888a-o2-combustion-flue-gas-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/71300/7b61a2c3468293f99ac9927c00e7f8bb/manual--6888-in-situ-combustion-o2-analyzer-quick-start-up-manual-data.pdf",
+            "http://www.emerson.com/resource/blob/71284/63f887e1b3146fd10b35ecd4d9bbd776/product-data--6888-in-situ-flue-gas-oxygen-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/71306/1d49f019d784349a8fd90e87e4cbaed4/product-data--6888-in-situ-flue-gas-oxygen-transmitter---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 6888 In Situ Oxygen Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/73080/1e1b5c79f1e43eadedf72adc971ef38a/manual--rosemount-ct5400-continuous-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/72658/59559acb99bb5b8efbc19077dc29eb7b/product-data--ct5400-continuous-gas-analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 CT5400 Continuous Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/69442/6c02d4b959369de1b1bd137272ce03dd/product-data--oxymitter-dr-direct-replacement-replacement-flue-gas-oxygen-probe-data.pdf",
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69748/2b3320c2ad75c921224820db09c78dd2/manual--oxymitter-dr-in-situ-o2-probe---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69438/7f1d299742f05758296b79310931afd1/product-data--bypass-oxygen-analyzer-package-data.pdf",
+            "http://www.emerson.com/resource/blob/71178/3a3f1ff10e7cca21dc93327f0db3a169/product-data--oxymitter-in-situ-oxygen-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/105106/0b3426dbb712b54440b0cb955417e92e/product-data--oxymitter-in-situ-oxygen-transmitter-for-hazardous-area-applications-2-data.pdf",
+            "http://www.emerson.com/resource/blob/70218/724b05a37a3fd7cec4f5e21c5498bd64/comb-manual-imps-4000-data.pdf",
+            "http://www.emerson.com/resource/blob/70212/53432ab6505b36269f03805883a8c231/manual--sps-4001b-single-probe-autocalibration-sequencer---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69468/387862638fe52c03a364b1e8be1531d6/product-data--oxymitter-400-in-situ-flue-gas-oxygen-transmitter--%25E4%25B8%25AD%25E5%259B%25BD--data.pdf"
+        ],
+        "name": "Rosemount\u2122 Oxymitter\u2122 Direct Replacement Oxygen Probes"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69470/8d2111af3dad2a1f62fa50cc4b623e6c/product-data--hagan-pneumatic-power-positioners-data.pdf",
+            "http://www.emerson.com/resource/blob/69474/61b1954b1c7ffa15b088273fba042349/product-data--503-hagan-sample-cooler-styles-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Hagan Power Positioner 4x5 Thrust Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71328/fd8cd493aa790c4d4495f678f02c5427/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69852/dab60d4524d9b247f861e713d85cd359/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-integral-electronics---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69864/ccdf9a138a9f837fedd46c76712c140c/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-remote-electronics---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69858/a640cc677b9937d04c00adf2444abaad/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-remote-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69888/20b95e44a0fbeb688d0781cea707ad89/manual--ocx-8800-o2--combustibles-transmitter-general-purpose-with-remote-electronics---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69846/174e4bce18466c5c400ea90f7d546281/manual--ocx-8800-o2--combustibles-transmitter-hazardous-area-with-integral-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69870/34e9dc98190527a704b4e52375fd4761/manual--ocx-8800-o2--combustibles-transmitter-general-purpose-with-integral-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69882/a1d6a2c5144bfcef6f652030cd726c1c/manual--ocx-8800-o2--combustibles-transmitter-general-purpose-with-remote-electronics-and-loi-local-operator-interface---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/70288/98326c08f61f8a56408daf176f25abb6/product-data--ocx-8800-oxygencombustibles-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/69876/73f8b152381f51e4f4d61fd85b7fdd70/manual--ocx-8800-o2--combustibles-transmitter-general-purpose---rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69464/d4b54dfdb0d596e18acca3a588003ad9/product-data--ocx-8800-oxygencombustibles-transmitter--%25E4%25B8%25AD%25E5%259B%25BD--data.pdf"
+        ],
+        "name": "Rosemount\u2122 OCX8800 Oxygen and Combustibles Transmitter"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70660/db88cb9c19bd0dc20b8082ee04e0791d/manual--xi-advanced-electronics-for-zirconium-oxide-flue-gas-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Xi Advanced Electronics"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69736/4bd812423ce17e2ed01eba3a2b02a68c/manual--powervue-4-x-5-fandamper-actuator-torque-type-with-retrofit-kit-installation-instructions---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators 4x5 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators Retrofit Kit 4x5 and 8x14"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71184/cdb94bac8922d98cebb2186ec6b93ca4/product-data--x-stream-enhanced-general-purpose-gas-analyzer-data.pdf",
+            "http://www.emerson.com/resource/blob/71320/615dd9a16c0904a63aa63a2fbb2cf0e0/product-data--x-stream-enhanced-compact-gas-analyzer---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71964/ed915713859cf697054dada786de2c16/manual--x-stream-enhanced-short-form-manual---7th-ed--data.pdf",
+            "http://www.emerson.com/resource/blob/71322/fce102242f8b15fb17ca0b8bda34db6f/product-data--x-stream-enhanced-general-purpose-gas-analyzer---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/71966/b5a8f7d3320ee205daa857c1492f148d/manual--x-stream-enhanced-gas-analyzer-series-instruction-manual---6th-ed--data.pdf",
+            "http://www.emerson.com/resource/blob/71324/ad066fd96bca4c0d741b54d1c472dd69/product-data--x-stream-enhanced-field-housing-gas-analyzer---chinese-data.pdf"
+        ],
+        "name": "Rosemount\u2122 X-STREAM Enhanced XEGP Continuous Gas Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69470/8d2111af3dad2a1f62fa50cc4b623e6c/product-data--hagan-pneumatic-power-positioners-data.pdf",
+            "http://www.emerson.com/resource/blob/70038/d1a97985cc4e59ea44667007372eb5b8/manual--hagan-8-x-14-torque-type-power-positioner---rev-1-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69474/61b1954b1c7ffa15b088273fba042349/product-data--503-hagan-sample-cooler-styles-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Hagan Power Positioner 8x14 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/70500/435c80b3b9278d58da91035f85a75767/product-data--5081fg-2-wire-in-situ-oxygen-analyzer---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/69690/d1b8100c535d34d2369fee0a70582d25/manual--5081fg-2-wire-in-situ-o2-analyzer--550--to-1600-c----rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69426/418a19eed11d1126a7402beb96dbd3a6/product-data--5081fg-two-wire-in-situ-oxygen-analyzer--550--to-1600-c--data.pdf"
+        ],
+        "name": "Rosemount\u2122 5081FG High Temperature Oxygen Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71980/6529c9ef61d059b814bab6f8fc9fd008/product-data--opm-4001-opacitydust-density-monitor-data.pdf",
+            "http://www.emerson.com/resource/blob/69832/16416c288b9285933228db403172ed68/manual--opm-4000-opacity--dust-density-monitor---rev-1-3-data.pdf"
+        ],
+        "name": "Rosemount\u2122 OPM4001 Opacity Dust Density Monitor - EPA Compliant"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/71330/ceaf42eece75012968a65ed4ba0a6e8f/manual--oxymitter-4000-o2-transmitter---chinese-data.pdf",
+            "http://www.emerson.com/resource/blob/72562/e3284487db6fab031f4fa3d139d64163/product-data--xi-advanced-electronics-for-zirconium-oxide-oxygen-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69816/fdec8beff7f2846bfc20320b41f41708/manual--oxymitter-4000-instruction-bulletin-addendum-for-pressure-balanced-in-situ-o2-probes-data.pdf",
+            "http://www.emerson.com/resource/blob/69820/6cf144f1592afb7cea57dc280f2924ea/manual--oxymitter-4000-instruction-bulletin-addendum-for-pressure-balanced-in-situ-o2-probes-pn-6a00197g01-g06---rev--3-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69796/c9549afd900b0a5bd052812ee972d8cf/manual--oxymitter-4000-o2-transmitter-sulfur-resistant---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69818/88967967f473132028542387fc3226f5/manual--oxymitter-4000-optional-isolation-valving-system-used-with-rosemount-analytical-in-situ-oxygen-probes---instruction-bulletin-addendum---rev--3-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69814/8aa7878288791d4b081d4dce56124183/manual--oxymitter-4000-o2-transmitter---rev-4-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69438/7f1d299742f05758296b79310931afd1/product-data--bypass-oxygen-analyzer-package-data.pdf",
+            "http://www.emerson.com/resource/blob/71178/3a3f1ff10e7cca21dc93327f0db3a169/product-data--oxymitter-in-situ-oxygen-transmitter-data.pdf",
+            "http://www.emerson.com/resource/blob/105106/0b3426dbb712b54440b0cb955417e92e/product-data--oxymitter-in-situ-oxygen-transmitter-for-hazardous-area-applications-2-data.pdf",
+            "http://www.emerson.com/resource/blob/70218/724b05a37a3fd7cec4f5e21c5498bd64/comb-manual-imps-4000-data.pdf",
+            "http://www.emerson.com/resource/blob/69798/b0a5eea04ff2b4ead9ec9705400e58ad/manual--oxymitter-4000-and-oxymitter-5000-modification-instructions-converting-oxymitter-integral-probe-to-split-architecture-configuration-data.pdf",
+            "http://www.emerson.com/resource/blob/70212/53432ab6505b36269f03805883a8c231/manual--sps-4001b-single-probe-autocalibration-sequencer---rev-1-2-data.pdf",
+            "http://www.emerson.com/resource/blob/69468/387862638fe52c03a364b1e8be1531d6/product-data--oxymitter-400-in-situ-flue-gas-oxygen-transmitter--%25E4%25B8%25AD%25E5%259B%25BD--data.pdf",
+            "http://www.emerson.com/resource/blob/69792/b83a39acf4556b0d466c1ff3f23af60b/manual--oxymitter-4000-o2-transmitter-hazardous-area---rev-4-4-data.pdf"
+        ],
+        "name": "Rosemount\u2122 Oxymitter\u2122 4000 In Situ Oxygen Transmitter"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/70036/84120e770b51d0d672516d456ed0a55e/manual--hagan-6-x-10-torque-type-power-positioner---rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/69470/8d2111af3dad2a1f62fa50cc4b623e6c/product-data--hagan-pneumatic-power-positioners-data.pdf",
+            "http://www.emerson.com/resource/blob/69474/61b1954b1c7ffa15b088273fba042349/product-data--503-hagan-sample-cooler-styles-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Hagan Power Positioner 6x10 Torque Type"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69840/fa8b57cf89d0fafce50f24d35b626b0f/manual--opm-3000-opacity--dust-density-monitor---rev-2-0-data.pdf",
+            "http://www.emerson.com/resource/blob/71978/15afd172a3734b103e384b96e5f2cc2c/product-data--opm-3000-opacitydust-density-monitor-data.pdf"
+        ],
+        "name": "Rosemount\u2122 OPM3000 Opacity Dust Density Monitor"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69728/5cb02c64b3980556af79aa21df269dcc/manual--cco-5500-carbon-monoxide--co--analyzer---rev-1-0-data.pdf",
+            "http://www.emerson.com/resource/blob/70576/f664123350ab94eed4ff0394f15f42a6/product-data--cco-5500-carbon-monoxide--co--analyzer-data.pdf"
+        ],
+        "name": "Rosemount\u2122 CCO 5500 Carbon Monoxide (CO) Analyzer"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/69826/5293a1e34d16ebfb54fcd74f6af1d26c/manual--oxybalance-oxygen-display-and-averaging-system---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69466/4f72c2473ef5125067b592b02f994b87/product-data--oxybalance-oxygen-display-and-averaging-system-data.pdf"
+        ],
+        "name": "Rosemount\u2122 OxyBalance Oxygen Display and Averaging System"
+    },
+    {
+        "urls": [
+            "http://www.emerson.com/resource/blob/70248/eee3544b982a1498ed10790a677af654/product-data--hart-model-475-field-communicator-data.pdf",
+            "http://www.emerson.com/resource/blob/69742/b9a08ee3ae69d5ae633121ca42d9a0f3/manual--powervue-8-x-14-fandamper-actuator-torque-type-with-retrofit-kit-installation-instructions---rev-1-1-data.pdf",
+            "http://www.emerson.com/resource/blob/69472/013428c7672ae2eb234db52333f7364e/product-data--powervue-fandamper-actuators-with-optional-foundation-fieldbus-communications-data.pdf",
+            "http://www.emerson.com/resource/blob/72876/9e9a666ac141b78fd6341e00efd81d10/product-data--fandamper-remanufacturing-data.pdf"
+        ],
+        "name": "Rosemount\u2122 PowerVUE\u2122 Fan Damper Actuators 8x14 Torque Type"
+    }
+]
